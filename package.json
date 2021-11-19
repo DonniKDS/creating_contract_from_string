@@ -1,0 +1,20 @@
+{
+  "name": "creating_contract_from_string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node contrats.from.string.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "ton-client-js": "^0.28.1",
+    "ton-client-node-js": "^0.28.0",
+    "tondev": "^0.10.5"
+  }
+}
